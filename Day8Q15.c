@@ -10,7 +10,7 @@ Example:
 Input:
 2 5
 
-Output
+Output:
 32
 
 Explanation: 2^5 = 2 * 2 * 2 * 2 * 2 = 32*/
