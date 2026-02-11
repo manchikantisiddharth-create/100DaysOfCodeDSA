@@ -8,7 +8,7 @@ Input:
 Output:
 - Print the resultant matrix after addition, with each row on a new line and elements separated by spaces
 
-Example:
+Example
 Input:
 3 3
 1 2 3
