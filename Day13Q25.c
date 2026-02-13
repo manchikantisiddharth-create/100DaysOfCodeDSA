@@ -4,7 +4,7 @@ Input:
 - First line: two integers r and c representing the number of rows and columns
 - Next r lines: c integers each representing the matrix elements
 
-Output:
+Output
 - Print all visited elements in the order of traversal, separated by spaces
 */
 #include<stdio.h>
