@@ -4,7 +4,7 @@ Input:
 - First line: integer n representing number of rows and columns
 - Next n lines: n integers each representing the matrix elements
 
-Output:
+Output
 - Print "Identity Matrix" if the matrix satisfies the condition
 - Otherwise, print "Not an Identity Matrix"
 */
