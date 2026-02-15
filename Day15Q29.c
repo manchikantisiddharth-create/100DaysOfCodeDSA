@@ -4,7 +4,7 @@ Input:
 - First line: two integers m and n
 - Next m lines: n integers each
 
-Output:
+Output
 - Print the sum of the primary diagonal elements*/
 #include<stdio.h>
 
