@@ -4,7 +4,7 @@ Input:
 - First line: integer n (size of array)
 - Second line: n integers
 
-Output:
+Output
 - Print each element followed by its frequency in the format element:count
 */
 #include<stdio.h>
