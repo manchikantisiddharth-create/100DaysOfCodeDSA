@@ -5,7 +5,7 @@ Input:
 - Second line: n space-separated integers
 - Third line: integer k
 
-Output:
+Output
 - Print the linked list elements after rotation, space-separated
 */
 
