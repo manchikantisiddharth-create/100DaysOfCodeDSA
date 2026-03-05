@@ -3,7 +3,7 @@
 Input:
 - Single line: infix expression (operands are single characters)
 
-Output:
+Output
 - Print the postfix expression
 */
 #include <stdio.h>
