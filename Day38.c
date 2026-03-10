@@ -1,3 +1,4 @@
+//day38
 #include <stdio.h>
 #include <string.h>
 
