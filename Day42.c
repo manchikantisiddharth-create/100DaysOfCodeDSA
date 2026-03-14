@@ -1,3 +1,4 @@
+//day42
 #include <stdio.h>
 #define MAX 100
 
