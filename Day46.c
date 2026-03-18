@@ -1,4 +1,4 @@
-//day466
+//day46
 #include <stdio.h>
 #include <stdlib.h>
 
