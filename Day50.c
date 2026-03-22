@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Definition for a binary tree node
 struct TreeNode {
     int val;
     struct TreeNode *left;
