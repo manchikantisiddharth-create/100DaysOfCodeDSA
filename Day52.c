@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Tree Node Definition
 struct TreeNode {
     int val;
     struct TreeNode *left;
