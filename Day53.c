@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Tree Node
+
 typedef struct Node {
     int data;
     struct Node *left, *right;
