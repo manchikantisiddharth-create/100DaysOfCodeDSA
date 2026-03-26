@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Tree Node
 struct Node {
     int data;
     struct Node* left;
