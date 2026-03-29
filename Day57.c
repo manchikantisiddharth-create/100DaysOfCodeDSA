@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//tree node
 struct Node {
     int data;
     struct Node* left;
