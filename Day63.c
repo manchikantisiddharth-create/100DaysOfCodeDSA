@@ -3,8 +3,7 @@
 Input:
 - n
 - adjacency list
-- source s
-
+- source 
 Output:
 - BFS traversal order*/
 
