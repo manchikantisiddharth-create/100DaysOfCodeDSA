@@ -7,7 +7,7 @@ int graph[MAX][MAX];
 bool visited[MAX];
 bool recStack[MAX];
 
-// DFS function
+// DFS function to detect cycle
 bool dfs(int v, int n) {
     visited[v] = true;
     recStack[v] = true;
