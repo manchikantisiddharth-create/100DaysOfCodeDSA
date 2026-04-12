@@ -1,3 +1,4 @@
+//day71
 /*Problem Statement
 Implement a hash table using quadratic probing with formula:
 
